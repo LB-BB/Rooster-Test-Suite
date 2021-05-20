@@ -1,0 +1,22 @@
+{
+  "name": "rooster-test-suite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Rooster.js",
+  "scripts": {
+    "test": "'mocha'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LB-BB/Rooster-Test-Suite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LB-BB/Rooster-Test-Suite/issues"
+  },
+  "homepage": "https://github.com/LB-BB/Rooster-Test-Suite#readme",
+  "dependencies": {
+    "mocha": "^8.4.0"
+  }
+}
